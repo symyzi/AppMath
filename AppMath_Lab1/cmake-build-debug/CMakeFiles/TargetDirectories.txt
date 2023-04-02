@@ -1,0 +1,3 @@
+D:/clion projects/AppMath_Lab1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/clion projects/AppMath_Lab1/cmake-build-debug/CMakeFiles/AppMath_Lab1.dir
+D:/clion projects/AppMath_Lab1/cmake-build-debug/CMakeFiles/edit_cache.dir

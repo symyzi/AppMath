@@ -1,0 +1,10 @@
+Dichotomy Result: 11.0336
+Iterations: 12 Function calls: 24
+Golden Ratio Result: 11.0332
+Iterations: 17 Function calls: 19
+Fibonacci Result: 11.0332
+Iterations: 17 Function calls: 19
+Parabola Result: 11.0332
+Iterations: 18 Function calls: 72
+Brent Result: 11.0335
+Iterations: 18 Function calls: 21
